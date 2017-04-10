@@ -5,6 +5,10 @@
     "dependencies": {
     },
     "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/tz-arm/node-red-contrib-tz-lowercase.git"
+    },
     "node-red"     : {
         "nodes": {
             "tz-lowercase": "tz-lowercase/tz-lowercase.js"
