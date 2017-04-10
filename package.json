@@ -1,0 +1,13 @@
+{
+    "name"         : "node-red-contrib-tz-lowercase",
+    "version"      : "0.0.1",
+    "description"  : "TZ's first sample node for node-red",
+    "dependencies": {
+    },
+    "license": "MIT",
+    "node-red"     : {
+        "nodes": {
+            "tz-lowercase": "tz-lowercase/tz-lowercase.js"
+        }
+    }
+}
